@@ -1,0 +1,26 @@
+{
+    "1": {
+        "hex_color": "#00e400",
+        "category": "Good"
+    },
+    "2": {
+        "hex_color": "#ffff00",
+        "category": "Moderate"
+    },
+    "3": {
+        "hex_color": "#ff7e00",
+        "category": "Unhealthy for Sensitive Groups"
+    },
+    "4": {
+        "hex_color": "#ff0000",
+        "category": "Unhealthy"
+    },
+    "5": {
+        "hex_color": "#8f3f97",
+        "category": "Very Unhealthy"
+    },
+    "6": {
+        "hex_color": "#7e0023",
+        "category": "Hazardous"
+    }
+}
