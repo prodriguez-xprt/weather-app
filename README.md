@@ -21,3 +21,5 @@ You may also see any lint errors in the console.
 ## Important
 
 Make sure to have the .env variables set correctly
+
+<img width="852" alt="image" src="https://github.com/prodriguez-xprt/weather-app/assets/69161231/7024a0fe-7c01-42b0-8a8f-9ecf047eef1e">
